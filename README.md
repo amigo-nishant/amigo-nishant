@@ -133,8 +133,6 @@ I enjoy building systems that are simple, scalable, and reliable in real product
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amigo-nishant&theme=tokyonight&hide_border=true)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amigo-nishant&theme=tokyo-night&hide_border=true)
 
 
