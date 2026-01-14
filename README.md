@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nishant%20Nath&fontSize=42&fontColor=ffffff&color=0:0f2027,100:203a43" />
+</p>
+
 # Hi 👋 I'm Nishant <img width="50" height="50" alt="emoji" src="https://github.com/user-attachments/assets/cb9c01c0-fffd-4580-ad45-d8ded94aa8c8" />
 
 
