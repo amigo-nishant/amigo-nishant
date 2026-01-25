@@ -7,7 +7,7 @@
 
  ### **DevOps | MLOps | SRE | Cloud - AWS/GCP/Azure/OCI**
 
-I’m a DevOps Engineer focused on building secure and scalable cloud infrastructure.
+I’m a Sr. DevOps Engineer focused on building secure and scalable cloud infrastructure.
 I enjoy building systems that are simple, scalable, and reliable in real production environments.
 
 ---
