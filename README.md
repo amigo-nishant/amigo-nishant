@@ -5,7 +5,7 @@
 # Hi 👋 I'm Nishant <img width="50" height="50" alt="emoji" src="https://github.com/user-attachments/assets/cb9c01c0-fffd-4580-ad45-d8ded94aa8c8" />
 
 
- ### **DevOps | MLOps | SRE | Cloud - AWS/GCP/Azure/OCI |**
+ ### **DevOps | MLOps | SRE | Cloud - AWS/GCP/Azure/OCI**
 
 I’m a DevOps Engineer focused on building secure and scalable cloud infrastructure.
 I enjoy building systems that are simple, scalable, and reliable in real production environments.
