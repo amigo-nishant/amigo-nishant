@@ -14,12 +14,12 @@ I enjoy building systems that are simple, scalable, and reliable in real product
 
 ## 🧑‍💻 About Me
 
-- 🔧 DevOps Engineer with hands-on experience in **cloud**
-- 🐳 Strong in **containerization & orchestration**
-- ⚙️ CI/CD pipeline design & automation
-- 🛠️ Infrastructure as Code using **Terraform**
-- 📈 Observability, monitoring & logging for production workloads
-- 🎯 Currently helping professionals transition into **real-world DevOps**
+- DevOps Engineer with hands-on experience in **cloud**
+- Strong in **containerization & orchestration**
+- CI/CD pipeline design & automation
+- Infrastructure as Code using **Terraform**
+- Observability, monitoring & logging for production workloads
+- Currently helping professionals transition into **real-world DevOps**
 
 ---
 
@@ -92,10 +92,10 @@ I enjoy building systems that are simple, scalable, and reliable in real product
 
 ## 🌍 Open Source & Community
 
-- 🧩 Actively exploring and contributing to open-source DevOps & Cloud projects  
-- 🔍 Forking, studying, and extending production-grade repositories (Kubernetes, microservices, CI/CD tooling)
-- 📦 Building reusable **Helm charts**, **Terraform modules**, and **automation scripts**
-- 🧠 Sharing real-world DevOps knowledge through labs, demos, and repositories
+- Actively exploring and contributing to open-source DevOps & Cloud projects  
+- Forking, studying, and extending production-grade repositories (Kubernetes, microservices, CI/CD tooling)
+- Building reusable **Helm charts**, **Terraform modules**, and **automation scripts**
+- Sharing real-world DevOps knowledge through labs, demos, and repositories
 
 ## 🏗️ Architecture & Engineering Focus
 
